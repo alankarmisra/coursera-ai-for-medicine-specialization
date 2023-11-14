@@ -23,62 +23,64 @@ This repo contains my work for this specialization. The code base, quiz question
   
   - **Week 1**
     - Assignment: 
-      - [Chest X-Ray Medical Diagnosis with Deep Learning](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%201/C1W1_A1_Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb)
+      - [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week1/C1_W1_Assignment.ipynb)
     - Labs: 
-      - [Data Exploration & Image Pre-Processing](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%201/C1W1_L1_Data%20Exploration%20%26%20Image%20Pre-Processing.ipynb)
-      - [Counting labels and weighted loss function](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%201/C1W1_L2_Counting%20labels%20and%20weighted%20loss%20function.ipynb)
-      - [Densenet](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%201/C1W1_L3_Densenet.ipynb)    
-      - [Patient Overlap - Practice](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%201/C1W1_L4_Patient%20Overlap%20-%20practice.ipynb)
+      - [Data Exploration & Image Pre-Processing](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week1/C1_W1_Lab_1_data_exploration_and_image_preprocessing.ipynb)
+      - [Counting Labels & Weighted Loss Function](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week1/C1_W1_Lab_2_counting_labels_and_weighted_loss_function.ipynb)
+      - [Densenet](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week1/C1_W1_Lab_3_densenet.ipynb)    
+      - [Patient Overlap and Data Leakage](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week1/C1_W1_Lab_4_patient_overlap_and_data_leakage.ipynb)
   - **Week 2**
     - Assignment: 
-      - [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%202/C1W2_A1_Evaluation%20of%20Diagnostic%20Models.ipynb)  
+      - [Evaluation of Diagnostic Models](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week2/C1_W2_Assignment.ipynb)
+    - Labs:
+      - [ROC Curve and Threshold](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week2/C1_W2_Lab_1_roc_curve%20_and_threshold.ipynb)
   - **Week 3**
     - Assignment: 
-      - [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1M3_A1_Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging.ipynb)
+      - [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week3/C1_W3_Assignment.ipynb)
     - Labs: 
-      - [Explore MRI data](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1W3_L1_Explore%20MRI%20data.ipynb)
-      - [Get a sub section](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1W3_L2_Get%20a%20sub%20section.ipynb)
-      - [Implement U-Net](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1W3_L3_Implement%20U-Net.ipynb)    
+      - [Explore MRI Data and Labels](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week3/C1_W3_Lab_1_explore_mri_data_and_labels.ipynb)
+      - [Extract a Sub Section](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week3/C1_W3_Lab_2_extract_a_sub_section.ipynb)
+      - [U-Net Model](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/diagnosis/week3/C1_W3_Lab_3_unet_model.ipynb)    
 
 ### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
   
   - **Week 1**
     - Assignment: 
-      - [Diagnosing Diseases using Linear Risk Models](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%201/C2W1_A1_Build%20and%20Evaluate%20a%20Linear%20Risk%20model.ipynb)
+      - [Build and Evaluate a Linear Risk model](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week1/C2_W1_Assignment.ipynb)
     - Labs: 
-      - [Create a linear model](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%201/C2W1_L1_Create%20a%20linear%20model.ipynb)
-      - [Risk Scores, Pandas and Numpy](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%201/C2W1_L2_Risk%20Scores%2C%20Pandas%20and%20Numpy.ipynb)
-      - [Combine Features](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%201/C2W1_L3_Combine%20Features.ipynb)    
-      - [Concordance index](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%201/C2W1_L4_Concordance%20index.ipynb)      
+      - [Create a Linear Model | Linear model using scikit-learn](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week1/C2_W1_Lab_1_create_a_linear_model.ipynb)
+      - [Risk Scores, Pandas and Numpy](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week1/C2_W1_Lab_2_risk_scores_pandas_and_numpy.ipynb)
+      - [Combine Features](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week1/C2_W1_Lab_3_combine_features.ipynb)    
+      - [Concordance Index](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week1/C2_W1_Lab_4_concordance_index.ipynb)      
   - **Week 2** 
     - Assignment: 
-      - [Risk Models Using Machine Learning](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%202/C2W2_A1_Risk%20Models%20Using%20Tree-based%20Models.ipynb)
+      - [Risk Models Using Tree-based Models](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week2/C2_W2_Assignment.ipynb)
     - Labs: 
-      - [Decision trees](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%202/C2W2_L1L2L3_Decision%20trees%2C%20Missing%20data%20and%20applying%20a%20mask%2C%20Imputation.ipynb)
-      - [Missing data and applying a mask](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%202/C2W2_L1L2L3_Decision%20trees%2C%20Missing%20data%20and%20applying%20a%20mask%2C%20Imputation.ipynb)
-      - [Imputation](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%202/C2W2_L1L2L3_Decision%20trees%2C%20Missing%20data%20and%20applying%20a%20mask%2C%20Imputation.ipynb)    
+      - [Decision Tree Classifier](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week2/C2_W2_Lab_1_decision_tree_classifier.ipynb)
+      - [Missing Data and Applying a Mask](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week2/C2_W2_Lab_2_missing_data_and_applying_a_mask.ipynb)
+      - [Imputation](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week2/C2_W2_Lab_3_imputation.ipynb)    
   - **Week 3** 
     - Assignment: 
-      - [Non-Parametric Estimators for Survival Analysis](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%203/C2W3_A1_Survival%20Estimates%20that%20Varies%20with%20Time.ipynb)
+      - [Survival Estimates that Vary with Time](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week3/C2_W3_Assignment.ipynb)
     - Labs: 
-      - [Counting patients](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%203/C2W3_L1L2_Counting%20patients%2C%20Kaplan%20Meier.ipynb)
-      - [Kaplan Meier](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%203/C2W3_L1L2_Counting%20patients%2C%20Kaplan%20Meier.ipynb)
+      - [Count Patients](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week3/C2_W3_Lab_1_counting_patients.ipynb)
+      - [Kaplan Meier](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week3/C2_W3_Lab_2_kaplan_meier.ipynb)
   - **Week 4** 
     - Assignment: 
-      - [Cox Proportional Hazards and Random Survival Forests](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%204/C2W4_A1_Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
+      - [Cox Proportional Hazards and Random Survival Forests](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week4/C2_W4_Assignment.ipynb)
     - Labs: 
-      - [Categorical variables](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%204/C2W3_L1L2L3_Categorical%20variables%2C%20Hazard%20function%2C%20Permissible%20pairs.ipynb)
-      - [Hazard function](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%204/C2W3_L1L2L3_Categorical%20variables%2C%20Hazard%20function%2C%20Permissible%20pairs.ipynb)
-      - [Permissible pairs](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%204/C2W3_L1L2L3_Categorical%20variables%2C%20Hazard%20function%2C%20Permissible%20pairs.ipynb)    
+      - [Categorical Variables](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week4/C2_W4_Lab_1_categorical_variables.ipynb)
+      - [Hazard Function](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week4/C2_W4_Lab_2_hazard_function.ipynb)
+      - [Permissible Pairs with Censoring and Time](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/prognosis/week4/C2_W4_Lab_3_permissible_pairs_with_censoring_and_time.ipynb)    
 
 ### Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
   - **Week 1** 
     - Assignment: 
-      - [Estimating Treatment Effect Using Machine Learning](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%201/C3W1_A1_Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
+      - [Estimating Treatment Effect Using Machine Learning](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week1/C3_W1_Assignment.ipynb)
     - Labs: 
-      - [Pandas operations on Medical Data](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%201/C3W1_L1_Pandas%20operations%20on%20Medical%20Data.ipynb)
-      - [Model Training Tuning Basics with Sklearn](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%201/C3W1_L2_Model%20Training%20Tuning%20Basics%20with%20Sklearn.ipynb)
-      - [Logistic Regression Model Interpretation](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%201/C3W1_L3_Logistic%20Regression%20Model%20Interpretation.ipynb)    
+      - [Pandas for a Medical Dataset](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week1/C3_W1_Lab_1_pandas_for_a_medical_dataset.ipynb)
+      - [Model Training/Tuning Basics with Sklearn](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week1/C3_W1_Lab_2_model_training_basics_with_sklearn.ipynb)
+      - [Logistic Regression Model Interpretation](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week1/C3_W1_Lab_3_logistic_regression_model_interpretation.ipynb)    
   - **Week 2** 
     - Assignment: 
       - [Natural Language Entity Extraction](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%202/C3W2_A1_Natural%20Language%20Entity%20Extraction.ipynb)
