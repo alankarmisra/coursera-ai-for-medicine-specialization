@@ -4,3 +4,6 @@ diagnosis/week3/data/BraTS-Data/model_pretrained.hdf5
 
 # Remove third-party github repository (this can be downloaded separately if needed)
 treatment/week2/NegBio
+
+# Ignore checkpoints
+.ipynb_checkpoints/
