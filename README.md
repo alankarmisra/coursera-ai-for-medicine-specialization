@@ -83,18 +83,18 @@ This repo contains my work for this specialization. The code base, quiz question
       - [Logistic Regression Model Interpretation](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week1/C3_W1_Lab_3_logistic_regression_model_interpretation.ipynb)    
   - **Week 2** 
     - Assignment: 
-      - [Natural Language Entity Extraction](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%202/C3W2_A1_Natural%20Language%20Entity%20Extraction.ipynb)
+      - [Natural Language Entity Extraction](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week2/C3_W2_Assignment.ipynb)
     - Labs: 
-      - [Cleaning Text](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%202/C3W2_L1_Cleaning%20Text.ipynb)
-      - [BioC format and the NegBio Library](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%202/C3W2_L2_BioC%20format%20and%20the%20NegBio%20Library.ipynb)
-      - [Preparing Input for Text Classification](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%202/C3W2_L3_Preparing%20Input%20for%20Text%20Classification.ipynb)    
+      - [Cleaning Text](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week2/C3_W2_Lab_1_cleaning_text.ipynb)
+      - [Using BioC format and the NegBio Library](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week2/C3_W2_Lab_2_bioc_and_negbio.ipynb)
+      - [Preparing Input for Text Classification](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week2/C3_W2_Lab_3_prep_input_for_text_classification.ipynb)    
   - **Week 3** 
     - Assignment: 
-      - [ML Interpretation](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%203/C3W3_A1_ML%20Interpretation.ipynb)
+      - [Model Interpretation Methods](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week3/C3_W3_Assignment.ipynb)
     - Labs: 
-      - [Permutation method](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%203/C3W3_L1_Permutation%20method.ipynb)
-      - [GradCam Part 1](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%203/C3W3_L2_GradCam%20Part%201.ipynb)
-      - [GradCam Part 2](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%203/C3W3_L2_GradCam%20Part%202.ipynb)    
+      - [Permutation method](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week3/C3_W3_Lab_1_permutation_method.ipynb)
+      - [Introduction To GradCAM (Part 1)](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week3/C3_W3_Lab_2_intro_to_gradcam.ipynb)
+      - [GradCAM: Continuation (Part 2)](https://github.com/alankarmisra/coursera-ai-for-medicine-specialization/blob/main/treatment/week3/C3_W3_Lab_3_gradcam_continuation.ipynb)    
 
 ## Syllabus
 
